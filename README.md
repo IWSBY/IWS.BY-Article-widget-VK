@@ -1,0 +1,2 @@
+# IWS.BY-Article-widget-VK
+IWS.BY Article widget VK -   The module allows you to integrate your site with the widget of articles on the social network Vkontakte. With this widget you can post articles created by VKontakte on your website. Different materials, designed in the same style, will become the decoration of the site. The widget is adaptive for different screens and does not require programming skills.
